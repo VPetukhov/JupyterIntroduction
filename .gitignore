@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# Data folders
+PythonDataScienceHandbook
+# git clone https://github.com/jakevdp/PythonDataScienceHandbook.git
