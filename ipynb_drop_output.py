@@ -20,6 +20,8 @@ def strip_output_from_cell(cell):
         del cell["prompt_number"]
     if "metadata" in cell:
         cell["metadata"] = {}
+    if "execution_count" in cell:
+        cell["execution_count"] = None
 
 if ipy_version == 2:
     for sheet in json_in["worksheets"]:

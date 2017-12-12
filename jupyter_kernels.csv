@@ -1,0 +1,99 @@
+Name,Jupyter/IPython Version,Language(s) Version,3rd party dependencies
+Coarray-Fortran,Jupyter 4.0,Fortran 2008/2015,"GFortran >= 7.1, OpenCoarrays, MPICH >= 3.2"
+sparkmagic,Jupyter >=4.0,"Pyspark (Python 2 & 3), Spark (Scala), SparkR (R)",Livy
+sas_kernel,Jupyter 4.0,python >= 3.3,SAS 9.4 or higher
+IPyKernel,Jupyter 4.0,"python 2.7, >= 3.3",pyzmq
+IJulia,,julia >= 0.3,
+IHaskell,,ghc >= 7.6,
+IRuby,,ruby >= 2.1,
+IJavascript,,nodejs >= 0.10,
+jpCoffeescript,,coffeescript >= 1.7,
+ICSharp,Jupyter 4.0,C# 4.0+,scriptcs
+IRKernel,IPython 3.0,R 3.2,rzmq
+SageMath,Jupyter 4,Any,many
+pari_jupyter,Jupyter 4,2.8,Cython
+IFSharp,IPython 2.0,F#,
+lgo,"Jupyter >= 4, JupyterLab",Go >= 1.8,ZeroMQ (4.x)
+gopherlab,"Jupyter 4.1, JupyterLab",Go >= 1.6,ZeroMQ (4.x)
+Gophernotes,Jupyter 4,Go >= 1.4,zeromq 2.2.x
+IGo,,Go >= 1.4,
+IScala,,Scala,
+Jupyter-scala,IPython>=3.0,Scala>=2.10,
+IErlang,IPython 2.3,Erlang,rebar
+ITorch,IPython >= 2.2,Torch 7 (LuaJIT),
+IElixir,Jupyter < 6.0,Elixir < 1.5,"Erlang OTP <= 19.3, Rebar"
+ierl,Jupyter >= 4.0,"Erlang 19 or 20, Elixir 1.4 or 1.5, LFE 1.2","Erlang, (optional) Elixir"
+IAldor,IPython >= 1,Aldor,
+IOCaml,IPython >= 1.1,OCaml >= 4.01,opam
+OCaml-Jupyter,Jupyter >= 4.0,OCaml >= 4.02,opam
+IForth,IPython >= 3,Forth,
+IPerl,,Perl 5,
+Perl6,Jupyter >= 4,Perl 6.d,zeromq 4
+IPerl6,,Perl 6,
+Jupyter-Perl6,Jupyter,Perl 6.C,Rakudo Perl 6
+IPHP,IPython >= 2,PHP >= 5.4,composer
+Jupyter-PHP,Jupyter 4.0,PHP >= 7.0.0,"composer, php-zmq"
+IOctave,Jupyter,Octave,
+IScilab,Jupyter,Scilab,
+MATLAB Kernel,Jupyter,Matlab,pymatbridge
+Bash,IPython >= 3,bash,
+PowerShell,IPython >= 3,Windows,
+CloJupyter,Jupyter,Clojure >= 1.7,
+CLJ-Jupyter,Jupyter,Clojure,
+jupyter-kernel-jsr223,Jupyter>=4.0,Clojure 1.8,"clojure-jrs223, Java>=7"
+Hy Kernel,Jupyter,Hy,
+Calysto Hy,Jupyter,Hy,
+Redis Kernel,IPython >= 3,redis,
+jove,,io.js,
+jp-babel,Jupyter,Babel,
+ICalico,IPython >= 2,multiple,
+IMathics,,Mathics,
+IWolfram,,Wolfram Mathematica,"Wolfram Mathematica(R), Metakernel"
+Lua Kernel,,Lua,
+IPyLua,,Lua,
+Calysto Scheme,,Scheme,
+Calysto Processing,,Processing.js >= 2,
+idl_kernel,,IDL,
+Mochi Kernel,,Mochi,
+Lua (used in Splash),,Lua,
+Apache Toree (formerly Spark Kernel),Jupyter,"Scala, Python, R",Spark >= 1.5
+Skulpt Python Kernel,,Skulpt Python,
+MetaKernel Bash,,bash,
+MetaKernel Python,,python,
+IVisual,,VPython,
+IBrainfuck,,Brainfuck,
+KDB+/Q Kernel (IKdbQ),IPython >= 3.1,Q,"qzmq, qcrypt"
+KDB+/Q Kernel (KdbQ Kernel),Jupyter,Q,
+ICryptol,,Cryptol,CVC4
+cling,Jupyter 4,C++,
+Xonsh,,Xonsh,
+Prolog,,Prolog,
+cl-jupyter,Jupyter,Common Lisp,Quicklisp
+Maxima-Jupyter,Jupyter,Maxima,Quicklisp
+Calysto LC3,,,
+Yacas,,YACAS,
+IJython,,Jython 2.7,
+ROOT,Jupyter,C++/python,ROOT >= 6.05
+Gnuplot Kernel,,Gnuplot,
+Tcl,Jupyter,Tcl 8.5,
+J,Jupyter,J 805,
+Jython,Jupyter>=4.0,Jython>=2.7.0,Java>=7
+C,Jupyter,C,gcc
+TaQL,Jupyter,TaQL,python-casacore
+Coconut,Jupyter,Coconut,
+SPARQL,Jupyter 4,Python 2.7 or >=3.4,"rdflib, SPARQLWrapper "
+AIML chatbot,Jupyter 4,Python 2.7,pyAIML
+IArm,Jupyter 4,ARMv6 THUMB,
+SoS,Jupyter 4,Python >=3.4,
+jupyter-nodejs,"Jupyter, iPython 3.x","NodeJS, Babel, Clojurescript",
+Pike,IPython >= 3,Pike >= 7.8,
+ITypeScript,,Typescript >= 2.0,Node.js >= 0.10.0
+imatlab,ipykernel >= 4.1,MATLAB >= 2016b,
+jupyter-kotlin,Jupyter,Kotlin 1.1-M04 EAP,Java >= 8
+jupyter_kernel_singular,Jupyter,Singular 4.1.0,
+spylon-kernel,ipykernel >=4.5,"python >= 3.5, scala >= 2.11",Apache Spark >=2.0
+mit-scheme-kernel,Jupyter 4.0,MIT Scheme 9.2,
+elm-kernel,Jupyter,,
+SciJava Jupyter Kernel,Jupyter 4.3.0,Java + 9 scripting languages,Java
+Isbt,Jupyter 4.3.0,sbt >= 1.0.0,sbt
+BeakerX,,,"Groovy, Java, Scala, Clojure, Kotlin, SQL"
